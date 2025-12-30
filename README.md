@@ -1,7 +1,6 @@
 # PG / Hostel Management System
 
-## High-Level Design (HLD) – Architect View (25+ Years Experience)
-
+## High-Level Design (HLD) Document
 ---
 
 ## 1. Purpose of This Document
